@@ -12,4 +12,5 @@ e.g.
           doc.textFrames[q].textRange.characterAttributes.textFont = app.textFonts.getByName("Meiryo-Bold");`
 
 Sets the font for Taiwanese to Meiryo Bold.
+
 4. Run the script, a folder named `Assets _current date_` will be created in the same folder as the illustrator file. Each language will have it's own subfolder, any artboards that did not require localisation will be exported at the top level.
